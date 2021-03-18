@@ -4,7 +4,7 @@ Getting Started
         *contain three servcies : 
             1- users service
             2- tasks service
-            3- depart service
+            3- department service
         *every service contain 
             -controlle : business or logic layer
             -middleware : validation layer to valid data from request both headers or body
