@@ -21,11 +21,13 @@ Getting Started
 ## Installation
     #To Run App
     1- node and mongodb is require.  
-    2- create gmail account to mailer send notification  and go to https://www.google.com/settings/security/lesssecureapps  then enabled less secure apps : turn on.
+    2- create gmail account to mailer send notification  
+        and go to https://www.google.com/settings/security/lesssecureapps  
+        then enabled less secure apps : turn on.
     3- ```bash   
             $ npm i 
        ```
-       
+
 
 ## Running the app
 
